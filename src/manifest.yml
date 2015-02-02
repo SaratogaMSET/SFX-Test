@@ -1,0 +1,14 @@
+API: 0.1
+Name: Suneel's Test
+Description: Contains all the plugins from the tutorial
+Version: 1.0.0
+# Please generate your own unique UUID and replace it below
+Plugin ID: 4cef7b5a-8d44-4e77-9051-c2d07a9e83ce
+Controls:
+-
+  Name: Piston
+  Description: Visual piston to display whether piston is in or out.
+  Source: /TestFXML.fxml
+  Category: Test
+  Defaults:
+    value: false
